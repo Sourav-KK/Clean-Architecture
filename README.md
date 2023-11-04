@@ -1,0 +1,1 @@
+This repository implements clean architecture in Node.js. Though the project is not complete and not implemented properly, it gives one a rough idea behind Uncle Bob's architecture. The unidirectional access of layers provides an extra layer of security and the database can changed any time.
